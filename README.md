@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 My name is Alden (or birch depending on how you know me). I'm a rising Junior at the University of Maryland studying CS. 
 Currently I...
-- Research @ [Breakerspace](https://breakerspace.cs.umd.edu/) on the vPing project
+- Research @ [Breakerspace](https://breakerspace.cs.umd.edu/) on the Geneva and vPing projects
 - Facilitate CMSC388U: Intro to Ethical Hacking 
-- Am the Treasurer for [UMDCSEC](umdcsec.io)
+- Am the VP/Competition Team Lead for [UMDCSEC](umdcsec.io)
